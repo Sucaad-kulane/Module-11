@@ -2,7 +2,6 @@ const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
-const { default: Choice } = require("inquirer/lib/objects/choice");
 
 // array of questions for user
 const questions = [
@@ -27,11 +26,12 @@ const questions = [
         message: `Can you inform the description of your project?`
     },
     {
-        Type: `list`,
-        name: `license`,
-        message: `What kind of license?`,
-        Choices: ["MIT", "APACHE 2.0", "GPL", "None"]
+        type: 'list',
+        name: 'license',
+        message: 'What kind of license?',
+        choices: ['MIT', 'APACHE 2.0', 'GPL', 'None']
     },
+    
     {
         Type: `input`,
         name: `installation`,
