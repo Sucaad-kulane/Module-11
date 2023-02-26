@@ -66,7 +66,7 @@ function generateMarkdown(data) {
 
   ### Questions
 
-  If you have question about the respo, contact me directly at ${data.email}.
+  If you have question about the repo, contact me directly at ${data.email}.
 
   You can find more of my work at [${data.github}] (https://github.com/${data.github}).
 
