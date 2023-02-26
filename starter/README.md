@@ -1,9 +1,9 @@
-# undefined
+# Module 11
   ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ### Description
 
-  read me generator using Node
+  read me file generator
 
   ### Table of Contents
   
@@ -44,14 +44,14 @@
   To run tests, run the following command:
 
   ```
-  test
+  node
   ```
 
   ### Questions
 
-  If you have question about the respo, contact me directly at sucad1@hotmail.co.uk.
+  If you have question about the repo, contact me directly at sucad1@hotmail.co.uk.
 
-  You can find more of my work at [sucaad-kulane] (https://github.com/sucaad-kulane).
+  You can find more of my work at [sucaad-kualne] (https://github.com/sucaad-kualne).
 
 
 
