@@ -1,4 +1,4 @@
-# Module 11
+# undefined
   ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ### Description
@@ -25,11 +25,11 @@
   To instrall necessary dependencies, run the following command:
 
   ```
-  node
+  test
   ```
 
   ## Usage 
-  fork
+  make sure to have node
 
   ## License
 
@@ -44,14 +44,14 @@
   To run tests, run the following command:
 
   ```
-  node
+  test
   ```
 
   ### Questions
 
   If you have question about the repo, contact me directly at sucad1@hotmail.co.uk.
 
-  You can find more of my work at [sucaad-kualne] (https://github.com/sucaad-kualne).
+  You can find more of my work at [sucaad-kulane] (https://github.com/sucaad-kulane).
 
 
 
